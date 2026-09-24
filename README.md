@@ -20,3 +20,13 @@ This notebook contains the solutions for the DWBDA assignment:
 ### Local
 
 1. Create a virtual environment and install dependencies:
+   python -m venv .venv
+   source .venv/bin/activate
+   pip install -r requirements.txt
+
+ Open the notebook and run all cells.
+Files
+File	Description
+DWD_BDA_Assignment_Colab.ipynb	Main notebook with all code and outputs
+previous_semester_exam_results.csv	Student exam data for Task 3
+requirements.txt	Python dependencies
